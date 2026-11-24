@@ -11,10 +11,10 @@ An AI-powered coding assistant built with Python, Streamlit, and the Google Gemi
 ## Screenshots
 
 ### UI Screens
-![Conversions](Screenshots/Convert.png)
+![Conversions](Convert.png)
 
 ### Feature Output
-![Code Explaination](Screenshots/Explain.png)
+![Code Explanation](Explain.png)
 
-### Promt Code Generations
-![Code Generatrions](Screenshots/Generate.png)
+### Prompt Code Generations
+![Code Generation](Generate.png)
